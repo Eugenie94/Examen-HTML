@@ -1,0 +1,214 @@
+/*DEBUT SECTION 1*/
+section {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.section1 {
+    background-color: rgb(233, 230, 230);
+}
+
+header {
+    padding-bottom: 3vh;
+}
+
+.logoheader {
+    /*image sport*/
+    margin-top: 15vh;
+}
+
+.colonne {
+    padding: 0 !important;
+    flex-direction: column;
+}
+
+.bordure {
+    /*border compte panier */
+    padding: 0 !important;
+    border: solid 2px grey;
+    background-color: rgb(240, 240, 240);
+    height: 16vh;
+    margin-top: 6vh;
+    display: flex;
+    justify-content: space-around;
+}
+
+.logobordure {
+    /*logo dans bordure */
+    align-items: center;
+    align-self: center;
+}
+
+.textebordure {
+    /*moncompte paniervide*/
+    align-items: center;
+    align-self: center;
+    margin-left: -10vh;
+}
+
+.julien {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.ancrages {
+    display: flex; 
+    justify-content: space-around;
+}
+
+a {
+    font-size: 2vh; 
+    margin-left: 20vh;
+    color: black;
+    margin-top: 5vh;
+}
+
+
+.titrelogo {
+    /*titre en dessous logo sport */
+    font-size: 3vh;
+    font-family: lato;
+    letter-spacing: 0.3vh;
+
+}
+
+.orange {
+    /*eil amel en orange span */
+    color: orange;
+}
+
+
+/*FIN SECTION 1*/
+
+
+/*SECTION 2*/
+
+.fond2 {
+    background-color: black;
+}
+
+.combatboxeimage {
+    width: 75.5%;
+    height: 420px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 3vh;
+}
+/*FIN SECTION 2*/
+
+
+/*DEBUT SECTION 3 */
+
+.section3 {
+    background-color: rgb(0, 0, 0);
+}
+
+.fond3 {
+    background-color: rgb(196, 196, 196);
+    padding-bottom: 15vh;
+}
+
+
+
+.card{
+    margin-top: 10vh;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+
+.card-body {
+    padding: 0;
+}
+
+.card-title {
+    font-size: 3.5vh;
+    font-family: lato;
+    text-align: center;
+    justify-content: start;
+}
+
+.card-text {
+    font-family: lato;
+    font-size: 2vh;
+    padding: 1vh;
+}
+
+.list-group-item {
+    padding: 1vh;
+    font-family: lato;
+}
+
+.gantboxe {
+    height: 420px;
+}
+
+.vente {
+    background-color: black;
+    border: 2px solid black;
+    display: block;
+    width: 25vh;
+    text-align: center;
+    color: white;
+    margin-left: 10vh;
+    font-size: 3vh;
+}
+
+.prixnoir {
+    color: black;
+    font-size: 5vh;
+}
+
+.prixjaune {
+    color: rgb(255, 224, 49);
+    font-size: 5vh;
+    text-decoration: underline;
+    margin-left: 5vh;
+}
+
+.centrerboxeparent {
+    display: flex;
+}
+
+.centrerboxeenfant {
+    text-align: center;
+}
+
+/*FIN SECTION 3*/
+
+/*DEBUT SECTION 4 */
+
+.section4 {
+    background-color: rgb(63, 63, 63);
+    padding-top: 14vh;
+    padding-bottom: 10vh;
+}
+
+
+.imagefooter {
+    margin-left: 12vh;
+}
+
+.imagefooter1 {
+    margin-top: 12vh !important;
+    margin-left: 19vh;
+    margin-bottom: 8vh;
+}
+
+.textefooter {
+    color: white;
+}
+
+.fond1 {
+    margin-top: 3vh;
+}
+
+
+p {
+    text-align: center;
+    color: white;
+}
+/*FIN SECTION 4 */
+
