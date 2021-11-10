@@ -8,7 +8,7 @@ Ce projet a été créer à partir des technologies suivantes :
 - CSS3
 - Bootstrap 
 
-Url du projet : https://eugenie94.github.io/Examen-HTML/
+Url du projet : https://examen-html.netlify.app/
 
 
 -------------------------------------------------- Aperçu de la page web --------------------------------------------------
